@@ -1,5 +1,9 @@
 ### Hi there, Imma Alvina 👋
 
+## Pronouns: She/Her
+# I would describe myself as a foodie
+# My fav dish is Curry fish head 
+
 <!--
 **Alvi-na/Alvi-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
