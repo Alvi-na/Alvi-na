@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there, Imma Alvina 👋
 
 <!--
 **Alvi-na/Alvi-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Pronouns: She/her
+## Fun fact: 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
