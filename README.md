@@ -1,8 +1,8 @@
 # Hi there, Imma Alvina 👋
 
-## 😄 Pronouns: She/Her
-### I would describe myself as a foodie
-### My fav dish is Curry fish head 
+###  😄 Pronouns: She/Her
+### 💬 I would describe myself as a foodie
+### ⚡ My fav dish is Curry fish head 
 ### 🌱 I’m currently learning coding languages like C language, JavaScript and Python in my diploma course. 
 
 
